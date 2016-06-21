@@ -1,4 +1,4 @@
-# Test app for Heckathon-1 from Ericsson Testing SMS
+# Test app for Confluence4 from Ericsson Testing SMS
 
 This is a quick app cobbled together for the purposes of demonstrating a basic CI/CD workflow with Docker Hub on using Amazon Cloud.
 All the Open Source Tools used. Hence the cost is Zero.
