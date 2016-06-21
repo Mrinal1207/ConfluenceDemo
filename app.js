@@ -1,4 +1,4 @@
-// Sample node.js web app for Hackathon-1 (Docker CI)
+// Sample node.js web app for Confluence4 (Docker CI)
 
 'use strict';
 var express = require('express'),
