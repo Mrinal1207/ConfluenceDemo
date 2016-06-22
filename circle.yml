@@ -12,4 +12,4 @@ test:
     
 notify:
    webhooks:
-       - url: https://api.opsgenie.com/v1/json/circleci?apiKey=c4a2e75d-e470-4b70-a373-d1ebdb8e6369
+       - url: https://api.opsgenie.com/v1/json/circleci?apiKey=d22cbbe2-3379-4bba-b116-679bd40a929e
